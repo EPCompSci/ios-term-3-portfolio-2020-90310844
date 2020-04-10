@@ -9,7 +9,7 @@ Over the next 9 weeks or so I intend to learn more about how to add graphics, ho
 
 I hope that this portfolio provides an overview of my work throughout the first term of my iOS development class and captures my developed skillset and overall interest in learning more moving forward.
 
-## Experience with App Development, Computer Science, and Programming Languages
+## App Development, Computer Science, and Programming Languages Experience
 * Intermediate/Advanced experience with MIT App Inventor (Since 2016 - AP Computer Science Princples)
 * Intermediate experience with Java (Since 2017 - AP Computer Science Principles, AP Computer Science A: Java)
 * Intermediate experience with Swift/XCode (Since 2020 - iOS App Development)
