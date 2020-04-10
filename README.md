@@ -15,6 +15,11 @@ I hope that this portfolio provides an overview of my work throughout the first 
 * Intermediate experience with Swift/XCode (Since 2020 - iOS App Development)
 * Beginniner experience with Python (Since 2020 - Self learning passion project)
 
+## Future Areas of Interest
+* Learning C/C++ 
+* Learning JavaScript 
+* Work on machine learning related projects
+
 ## My Work
 
 ### [Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper) (Scalable)
