@@ -18,7 +18,7 @@ I hope that this portfolio provides an overview of my work throughout the first 
 ## Future Areas of Interest
 * Learning C/C++ 
 * Learning JavaScript 
-* Work on machine learning related projects
+* Work on machine learning or AI related projects
 
 ## My Work
 
