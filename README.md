@@ -5,7 +5,7 @@ Hello, My name is Pranaav Sriram. I am a graduating high school senior at the ti
 
 Many of the apps I created during this 9 week period were entirely practice projects which I worked on solely to gain experience. Upon learning the basics I chose to focus on one app for the remaining weeks. This app would serve as a culmination of numerous skills I had practiced and learned over my inital learning phase.
 
-Over the next 9 weeks or so I intend to learn more about how to add graphics, how to include a database to my existng app and also learn more about CloudKit. I anticipate that learning more about these features will further increase the versatility of my future apps.
+Over the course of the next term I intend to learn more about how to add graphics, how to include a database to my existng app and also learn more about CloudKit. I anticipate that learning more about these features will further increase the versatility of my future apps.
 
 I hope that this portfolio provides an overview of my work throughout the first term of my iOS development class and captures my developed skillset and overall interest in learning more moving forward.
 
