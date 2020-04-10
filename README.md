@@ -1,7 +1,7 @@
 # ios-term-3-portfolio-2020-90310844
 ios-term-3-portfolio-2020-90310844 created by GitHub Classroom
 
-Hello, My name is Pranaav Sriram. I am a graduating high school senior at the time of the creation of this portfolio. The following is a portfolio of my work throughout the first 9 weeks of my semester-long iOS development class. This class is structured as a self-taught sandbox, leading me to gain experience and knowledge through experimentation as well as trial and error. I intially began learning Swift by watching Youtube tutorial videos on how to use the Xcode software. This sparked my interest to learn more and I transitioned over to writing code and evaluating its validty and efficiency.
+Hello, My name is Pranaav Sriram. I am a graduating high school senior at the time of the creation of this portfolio. The following is a portfolio of my work throughout the first 9 weeks of my semester-long iOS development class. This class is structured as a self-taught sandbox, enabling me to gain experience and knowledge through experimentation as well as trial and error. I intially began learning Swift by watching Youtube tutorial videos on how to use the Xcode software. This sparked my interest to learn more and I transitioned over to writing code and evaluating its validty and efficiency.
 
 Many of the apps I created during this 9 week period were entirely practice projects which I worked on solely to gain experience. Upon learning the basics I chose to focus on one app for the remaining weeks. This app would serve as a culmination of numerous skills I had practiced and learned over my inital learning phase.
 
