@@ -12,7 +12,7 @@ I hope that this portfolio provides an overview of my work throughout the first 
 ## Experience with App Development, Computer Science, and Programming Languages
 * Intermediate/Advanced experience with MIT App Inventor (Since 2016 - AP Computer Science Princples)
 * Intermediate experience with Java (Since 2017 - AP Computer Science Principles, AP Computer Science A: Java)
-* Intermediate experience with Swift(XCode)(Since 2020 - iOS App Development)
+* Intermediate experience with Swift/XCode (Since 2020 - iOS App Development)
 * Beginniner experience with Python (Since 2020 - Self learning passion project)
 
 ## My Work
